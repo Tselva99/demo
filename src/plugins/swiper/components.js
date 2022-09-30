@@ -32,7 +32,7 @@ export default (editor, opts = {}) => {
             const dynamicProgress = "{[ dynamicProgress ]}";
             const progressType = "{[ progressType ]}";
             console.trace(11111)
-            //wwwwwwwwwwwwiyeyeqyeiyiqww
+            //wwwwwwwwwwweeqeqeqeqqwiyeyeqyeiyiqww
             const initLib = function () {
               const swiper = new Swiper(".mySwiper", {
                 spaceBetween: 30,
